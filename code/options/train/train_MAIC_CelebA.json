@@ -35,7 +35,7 @@
     },
     "networks": {
         "which_model": "MAIC",
-        "num_features": 48,
+        "num_features": 330,
         "in_channels": 3,
         "out_channels": 3,
         "num_steps": 4,
